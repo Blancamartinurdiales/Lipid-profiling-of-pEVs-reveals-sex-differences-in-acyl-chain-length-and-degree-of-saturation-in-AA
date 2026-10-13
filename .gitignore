@@ -1,0 +1,32 @@
+# RStudio
+.Rhistory
+.Rapp.history
+.Ruserdata
+.Rproj.user/
+
+# Project files
+*.Rproj
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# R Markdown / Quarto
+*_cache/
+*_files/
+.quarto/
+
+# Shiny deployment
+rsconnect/
